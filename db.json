@@ -1,0 +1,726 @@
+{
+  "machines": [
+    {
+      "id": 1,
+      "name": "Adventure with Indiana Jones"
+    },
+    {
+      "id": 2,
+      "name": "Total Recall"
+    },
+    {
+      "id": 3,
+      "name": "Pinball adventures"
+    },
+    {
+      "id": 4,
+      "name": "Rodeo drive"
+    },
+    {
+      "id": 5,
+      "name": "Ping Pong Block Game"
+    }
+  ],
+    "statistics": [
+      {
+        "balance": "-1484.17",
+        "age": 19,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Fri Dec 14 2018 08:37:26 GMT+0000"
+      },
+      {
+        "balance": "-1138.85",
+        "age": 32,
+        "machine": 5,
+        "gender": 1,
+        "registered": "Wed Dec 12 2018 12:10:45 GMT+0000"
+      },
+      {
+        "balance": "999.11",
+        "age": 60,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Sun Dec 09 2018 18:35:00 GMT+0000"
+      },
+      {
+        "balance": "-1931.62",
+        "age": 44,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Tue Dec 11 2018 03:33:24 GMT+0000"
+      },
+      {
+        "balance": "-429.14",
+        "age": 19,
+        "machine": 5,
+        "gender": 1,
+        "registered": "Sun Dec 16 2018 20:13:38 GMT+0000"
+      },
+      {
+        "balance": "1710.37",
+        "age": 25,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Tue Dec 04 2018 01:42:28 GMT+0000"
+      },
+      {
+        "balance": "439.09",
+        "age": 42,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Tue Dec 04 2018 11:41:48 GMT+0000"
+      },
+      {
+        "balance": "264.85",
+        "age": 50,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Mon Dec 03 2018 04:19:04 GMT+0000"
+      },
+      {
+        "balance": "-1857.14",
+        "age": 34,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Mon Dec 17 2018 22:57:44 GMT+0000"
+      },
+      {
+        "balance": "191.97",
+        "age": 41,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Sat Dec 08 2018 11:23:09 GMT+0000"
+      },
+      {
+        "balance": "1875.75",
+        "age": 39,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Sun Dec 02 2018 22:21:54 GMT+0000"
+      },
+      {
+        "balance": "1630.42",
+        "age": 30,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Tue Dec 11 2018 12:40:29 GMT+0000"
+      },
+      {
+        "balance": "-708.72",
+        "age": 56,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Fri Dec 07 2018 14:14:37 GMT+0000"
+      },
+      {
+        "balance": "-1605.71",
+        "age": 55,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Wed Dec 05 2018 20:40:29 GMT+0000"
+      },
+      {
+        "balance": "-1588.65",
+        "age": 23,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Wed Dec 05 2018 08:09:29 GMT+0000"
+      },
+      {
+        "balance": "1770.09",
+        "age": 20,
+        "machine": 1,
+        "gender": 0,
+        "registered": "Wed Dec 12 2018 15:30:59 GMT+0000"
+      },
+      {
+        "balance": "1088.55",
+        "age": 29,
+        "machine": 5,
+        "gender": 1,
+        "registered": "Fri Dec 07 2018 06:15:39 GMT+0000"
+      },
+      {
+        "balance": "609.32",
+        "age": 56,
+        "machine": 5,
+        "gender": 1,
+        "registered": "Fri Dec 14 2018 09:15:10 GMT+0000"
+      },
+      {
+        "balance": "-1081.2",
+        "age": 41,
+        "machine": 3,
+        "gender": 0,
+        "registered": "Sun Dec 02 2018 09:57:43 GMT+0000"
+      },
+      {
+        "balance": "-1404.61",
+        "age": 21,
+        "machine": 1,
+        "gender": 0,
+        "registered": "Sun Dec 09 2018 22:16:41 GMT+0000"
+      },
+      {
+        "balance": "143.11",
+        "age": 58,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Thu Dec 06 2018 08:53:26 GMT+0000"
+      },
+      {
+        "balance": "1459.62",
+        "age": 18,
+        "machine": 3,
+        "gender": 0,
+        "registered": "Wed Dec 05 2018 17:52:51 GMT+0000"
+      },
+      {
+        "balance": "-211.32",
+        "age": 42,
+        "machine": 1,
+        "gender": 0,
+        "registered": "Sat Dec 01 2018 00:40:28 GMT+0000"
+      },
+      {
+        "balance": "1568.76",
+        "age": 52,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Mon Dec 10 2018 15:37:11 GMT+0000"
+      },
+      {
+        "balance": "-925.72",
+        "age": 48,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Mon Dec 17 2018 20:29:51 GMT+0000"
+      },
+      {
+        "balance": "302.36",
+        "age": 49,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Sun Dec 02 2018 12:08:04 GMT+0000"
+      },
+      {
+        "balance": "-530.45",
+        "age": 51,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Sun Dec 02 2018 23:59:42 GMT+0000"
+      },
+      {
+        "balance": "179.68",
+        "age": 54,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Sun Dec 02 2018 17:09:07 GMT+0000"
+      },
+      {
+        "balance": "-1332.46",
+        "age": 38,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Mon Dec 03 2018 11:13:55 GMT+0000"
+      },
+      {
+        "balance": "1064.54",
+        "age": 41,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Thu Dec 13 2018 03:45:44 GMT+0000"
+      },
+      {
+        "balance": "-1531.47",
+        "age": 53,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Sun Dec 09 2018 11:31:15 GMT+0000"
+      },
+      {
+        "balance": "580.11",
+        "age": 24,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Sat Dec 15 2018 18:03:34 GMT+0000"
+      },
+      {
+        "balance": "1683.12",
+        "age": 23,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Sat Dec 01 2018 08:12:10 GMT+0000"
+      },
+      {
+        "balance": "-258.49",
+        "age": 25,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Fri Dec 14 2018 11:13:47 GMT+0000"
+      },
+      {
+        "balance": "1381.97",
+        "age": 60,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Fri Dec 07 2018 10:15:26 GMT+0000"
+      },
+      {
+        "balance": "890.77",
+        "age": 52,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Fri Dec 07 2018 14:02:46 GMT+0000"
+      },
+      {
+        "balance": "-1402.37",
+        "age": 49,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Sat Dec 08 2018 00:16:01 GMT+0000"
+      },
+      {
+        "balance": "-625.28",
+        "age": 39,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Sun Dec 09 2018 01:05:32 GMT+0000"
+      },
+      {
+        "balance": 1022,
+        "age": 41,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Mon Dec 10 2018 06:17:44 GMT+0000"
+      },
+      {
+        "balance": "1654.19",
+        "age": 28,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Sat Dec 08 2018 08:57:42 GMT+0000"
+      },
+      {
+        "balance": "-699.37",
+        "age": 56,
+        "machine": 3,
+        "gender": 0,
+        "registered": "Sun Dec 09 2018 23:23:24 GMT+0000"
+      },
+      {
+        "balance": "1239.44",
+        "age": 51,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Mon Dec 03 2018 09:59:17 GMT+0000"
+      },
+      {
+        "balance": "332.42",
+        "age": 59,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Wed Dec 05 2018 08:11:00 GMT+0000"
+      },
+      {
+        "balance": "1368.03",
+        "age": 25,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Fri Dec 14 2018 20:03:19 GMT+0000"
+      },
+      {
+        "balance": "-796.38",
+        "age": 25,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Tue Dec 11 2018 01:52:33 GMT+0000"
+      },
+      {
+        "balance": "-83.62",
+        "age": 22,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Thu Dec 13 2018 06:55:38 GMT+0000"
+      },
+      {
+        "balance": "484.25",
+        "age": 32,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Sun Dec 02 2018 14:38:44 GMT+0000"
+      },
+      {
+        "balance": "1182.49",
+        "age": 51,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Mon Dec 10 2018 02:53:43 GMT+0000"
+      },
+      {
+        "balance": "860.69",
+        "age": 25,
+        "machine": 5,
+        "gender": 1,
+        "registered": "Sat Dec 15 2018 10:31:18 GMT+0000"
+      },
+      {
+        "balance": "511.66",
+        "age": 45,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Wed Dec 05 2018 03:23:53 GMT+0000"
+      },
+      {
+        "balance": "442.85",
+        "age": 20,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Thu Dec 13 2018 15:05:05 GMT+0000"
+      },
+      {
+        "balance": "-100.08",
+        "age": 28,
+        "machine": 1,
+        "gender": 0,
+        "registered": "Mon Dec 17 2018 02:22:20 GMT+0000"
+      },
+      {
+        "balance": "-84.04",
+        "age": 38,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Sun Dec 02 2018 06:46:06 GMT+0000"
+      },
+      {
+        "balance": "-1593.14",
+        "age": 34,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Wed Dec 05 2018 01:03:22 GMT+0000"
+      },
+      {
+        "balance": "159.99",
+        "age": 41,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Tue Dec 18 2018 16:10:32 GMT+0000"
+      },
+      {
+        "balance": "1793.82",
+        "age": 23,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Tue Dec 04 2018 12:21:38 GMT+0000"
+      },
+      {
+        "balance": "585.27",
+        "age": 25,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Mon Dec 03 2018 00:07:16 GMT+0000"
+      },
+      {
+        "balance": "-1094.59",
+        "age": 18,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Sat Dec 08 2018 00:58:13 GMT+0000"
+      },
+      {
+        "balance": "1428.34",
+        "age": 26,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Tue Dec 04 2018 18:18:40 GMT+0000"
+      },
+      {
+        "balance": "317.71",
+        "age": 37,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Sat Dec 15 2018 17:36:20 GMT+0000"
+      },
+      {
+        "balance": "1299.63",
+        "age": 19,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Wed Dec 05 2018 16:47:14 GMT+0000"
+      },
+      {
+        "balance": "1258.52",
+        "age": 19,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Sun Dec 02 2018 06:03:39 GMT+0000"
+      },
+      {
+        "balance": "-1038.06",
+        "age": 22,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Mon Dec 10 2018 02:19:44 GMT+0000"
+      },
+      {
+        "balance": "-789.28",
+        "age": 58,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Thu Dec 06 2018 09:17:54 GMT+0000"
+      },
+      {
+        "balance": "-512.35",
+        "age": 18,
+        "machine": 3,
+        "gender": 0,
+        "registered": "Tue Dec 11 2018 16:13:06 GMT+0000"
+      },
+      {
+        "balance": "-1308.08",
+        "age": 36,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Sun Dec 16 2018 05:19:35 GMT+0000"
+      },
+      {
+        "balance": "-267.63",
+        "age": 18,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Fri Dec 07 2018 14:12:08 GMT+0000"
+      },
+      {
+        "balance": "1802.95",
+        "age": 58,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Wed Dec 05 2018 02:21:25 GMT+0000"
+      },
+      {
+        "balance": "1508.28",
+        "age": 42,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Tue Dec 18 2018 13:46:12 GMT+0000"
+      },
+      {
+        "balance": "-661.53",
+        "age": 41,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Fri Dec 14 2018 07:41:19 GMT+0000"
+      },
+      {
+        "balance": "205.9",
+        "age": 33,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Mon Dec 17 2018 12:00:25 GMT+0000"
+      },
+      {
+        "balance": "-1391.03",
+        "age": 36,
+        "machine": 5,
+        "gender": 1,
+        "registered": "Tue Dec 11 2018 16:02:53 GMT+0000"
+      },
+      {
+        "balance": "-1235.94",
+        "age": 49,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Thu Dec 06 2018 10:25:48 GMT+0000"
+      },
+      {
+        "balance": "-206.73",
+        "age": 27,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Fri Dec 14 2018 21:26:15 GMT+0000"
+      },
+      {
+        "balance": "602.87",
+        "age": 31,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Fri Dec 14 2018 08:28:18 GMT+0000"
+      },
+      {
+        "balance": "1807.32",
+        "age": 59,
+        "machine": 5,
+        "gender": 1,
+        "registered": "Sun Dec 16 2018 20:22:21 GMT+0000"
+      },
+      {
+        "balance": "1438.9",
+        "age": 56,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Sat Dec 01 2018 05:56:03 GMT+0000"
+      },
+      {
+        "balance": "-19.94",
+        "age": 57,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Wed Dec 05 2018 03:46:10 GMT+0000"
+      },
+      {
+        "balance": "-1138.83",
+        "age": 29,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Tue Dec 04 2018 06:19:29 GMT+0000"
+      },
+      {
+        "balance": "-929.25",
+        "age": 34,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Tue Dec 18 2018 04:39:44 GMT+0000"
+      },
+      {
+        "balance": "-224.54",
+        "age": 23,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Thu Dec 13 2018 00:37:18 GMT+0000"
+      },
+      {
+        "balance": "-1370.07",
+        "age": 39,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Mon Dec 17 2018 09:57:23 GMT+0000"
+      },
+      {
+        "balance": "-40.04",
+        "age": 31,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Wed Dec 12 2018 21:06:19 GMT+0000"
+      },
+      {
+        "balance": "1204.9",
+        "age": 41,
+        "machine": 1,
+        "gender": 0,
+        "registered": "Tue Dec 04 2018 13:49:34 GMT+0000"
+      },
+      {
+        "balance": "742.81",
+        "age": 58,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Sun Dec 02 2018 06:38:21 GMT+0000"
+      },
+      {
+        "balance": "-813.85",
+        "age": 30,
+        "machine": 4,
+        "gender": 1,
+        "registered": "Wed Dec 12 2018 02:41:04 GMT+0000"
+      },
+      {
+        "balance": "573.34",
+        "age": 40,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Thu Dec 06 2018 18:53:56 GMT+0000"
+      },
+      {
+        "balance": "1698.3",
+        "age": 38,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Mon Dec 03 2018 21:14:05 GMT+0000"
+      },
+      {
+        "balance": "1438.49",
+        "age": 27,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Fri Dec 14 2018 23:47:48 GMT+0000"
+      },
+      {
+        "balance": "406.85",
+        "age": 43,
+        "machine": 3,
+        "gender": 1,
+        "registered": "Sat Dec 08 2018 09:41:13 GMT+0000"
+      },
+      {
+        "balance": "1942.48",
+        "age": 41,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Fri Dec 14 2018 02:58:13 GMT+0000"
+      },
+      {
+        "balance": "1450.68",
+        "age": 20,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Mon Dec 10 2018 00:15:39 GMT+0000"
+      },
+      {
+        "balance": "1873.59",
+        "age": 45,
+        "machine": 2,
+        "gender": 1,
+        "registered": "Thu Dec 13 2018 10:32:33 GMT+0000"
+      },
+      {
+        "balance": "-83.78",
+        "age": 52,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Sat Dec 15 2018 23:13:40 GMT+0000"
+      },
+      {
+        "balance": "477.01",
+        "age": 27,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Wed Dec 12 2018 19:08:55 GMT+0000"
+      },
+      {
+        "balance": "-612.97",
+        "age": 20,
+        "machine": 4,
+        "gender": 0,
+        "registered": "Tue Dec 11 2018 03:42:11 GMT+0000"
+      },
+      {
+        "balance": "1999.24",
+        "age": 42,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Sun Dec 09 2018 23:31:08 GMT+0000"
+      },
+      {
+        "balance": "281.44",
+        "age": 55,
+        "machine": 1,
+        "gender": 1,
+        "registered": "Wed Dec 05 2018 16:49:39 GMT+0000"
+      },
+      {
+        "balance": "-851.35",
+        "age": 35,
+        "machine": 5,
+        "gender": 0,
+        "registered": "Thu Dec 06 2018 15:05:28 GMT+0000"
+      },
+      {
+        "balance": "1344.01",
+        "age": 30,
+        "machine": 2,
+        "gender": 0,
+        "registered": "Thu Dec 13 2018 06:07:30 GMT+0000"
+      }
+    ]
+}

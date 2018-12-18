@@ -85,5 +85,15 @@ Notes of the development process.
 * json-server as the backend api
 * angular-highcharts as the Highcharts lib wrapper for diagrams
 
+### Database, API
+apiUrl: localhost:3000
+
+#### List of machines
+Endpoint @ /machines
+
+#### Statistics
+Contains information about customer machine usage
+
+Endpoint @ /statistics
 
 `Created by Tamás Kecskés @ 2018`
