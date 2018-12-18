@@ -53,4 +53,37 @@ The site needs a basic login site containing only the following elements:
 ### Database, API
 All data request is served by the local json-server plugin with mock data provided in a json file in the app's route folder.
 
+# Developer notes
+
+Notes of the development process.
+
+### Modules
+* Report (because it contains component only for this module)
+  * Filter component
+
+### Components (doesn't manipulates state directly)
+* Navbar
+  * Nav from bootstrap library
+  * Fixed position always on top
+* Sidebar
+  * Fixed position always on the left side offset top with navbar height
+  * Contains router links
+* Filter
+  * Fixed position always on the right side of the page
+  * Manages filter properties of the report site
+  * Used only on the report sites
+* Panel
+  * Bootstrap card element
+  * Has a title and a content section
+* Diagrams
+  * Every diagram comes form the Highcharts library
+  
+### Librarys
+* Angular as the host application
+* NGRX as the state management lib
+* Bootstrap 4 as the main CSS lib
+* json-server as the backend api
+* angular-highcharts as the Highcharts lib wrapper for diagrams
+
+
 `Created by Tamás Kecskés @ 2018`
