@@ -1,0 +1,9 @@
+<nav class="nav flex-column">
+  <a
+    class="nav-link"
+    [routerLink]="link.path"
+    routerLinkActive="active"
+    *ngFor="let link of links">
+    {{link.name}}
+  </a>
+</nav>

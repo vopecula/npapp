@@ -1,0 +1,118 @@
+<app-header></app-header>
+
+<div class="d-flex">
+  <div style="width: 250px;"></div>
+  <app-sidebar
+    class="position-fixed"
+    style="width: 250px;height: calc(100% - 56px);top:56px;left:0px;"
+    [links]="siteLinks">
+  </app-sidebar>
+
+  <div class="flex-grow-1 flex-shrink-1 p-2">
+    <div class="container">
+      <!--Top machines filtered after income card-->
+      <div class="row">
+        <div class="col-sm-12 mb-2">
+          <div class="card">
+            <div class="card-header">Top 5 machines filtered after income</div>
+            <table class="table table-sm table-bordered mb-0">
+              <thead>
+              <tr>
+                <th>Name</th>
+                <th>Total income</th>
+                <th width="200">Usage trend today</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr *ngFor="let machine of machines">
+                <td>{{machine.name}}</td>
+                <td>{{machine.value | currency}}</td>
+                <td>
+                  <ngx-charts-line-chart
+                    [view]="[200,30]"
+                    [scheme]="colorScheme"
+                    [results]="lines">
+                  </ngx-charts-line-chart>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!--Top machines filtered after losses card-->
+      <div class="row">
+        <div class="col-sm-12 mb-2">
+          <div class="card">
+            <div class="card-header">Top 5 machines filtered after losses</div>
+            <table class="table table-sm table-bordered mb-0">
+              <thead>
+              <tr>
+                <th>Name</th>
+                <th>Total income</th>
+                <th width="200">Usage trend today</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr *ngFor="let machine of machines">
+                <td>{{machine.name}}</td>
+                <td>{{machine.value | currency}}</td>
+                <td>
+                  <ngx-charts-line-chart
+                    [view]="[200,30]"
+                    [scheme]="colorScheme"
+                    [results]="lines">
+                  </ngx-charts-line-chart>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!--3 bottom diagram cards-->
+      <div class="card text-center mb-2">
+        <div class="card-header">Top 5 machine incomes</div>
+        <div style="width: 100%;height: 150px;">
+          <ngx-charts-number-card
+            [scheme]="colorScheme"
+            [results]="machines">
+          </ngx-charts-number-card>
+        </div>
+      </div>
+
+      <!--Top 5 machines by income-->
+      <div class="card text-center mb-2">
+        <div class="card-header">Top 5 machine incomes</div>
+        <div style="width: 100%;height: 200px;">
+          <ngx-charts-bar-horizontal
+            legend="true"
+            showXAxisLabel="true"
+            showYAxisLabel="true"
+            showGridLines="true"
+            [scheme]="colorScheme"
+            [results]="machines">
+          </ngx-charts-bar-horizontal>
+        </div>
+      </div>
+
+      <!--Incomes summary-->
+      <div class="card text-center mb-4">
+        <div class="card-header">Incomes summary</div>
+        <div style="width: 100%;height: 230px;">
+          <ngx-charts-advanced-pie-chart
+            [scheme]="colorScheme"
+            [results]="machines">
+          </ngx-charts-advanced-pie-chart>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div style="width: 250px;">&nbsp;</div>
+  <app-filter class="position-fixed p-2 bg-light"
+              style="right:0px; top:56px; height: calc(100% - 56px);width: 250px;"></app-filter>
+</div>
